@@ -14,5 +14,5 @@ void setup(){
 void loop(){
 	
 	Serial.println(UV.readUV());
-    delay(100);
+    delay(1000);
 }
